@@ -1,0 +1,7 @@
+table, tr, th, td {
+    border: solid 1px black;
+}
+
+.tablehead {
+    text-align: center;
+}
